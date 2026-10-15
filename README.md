@@ -1,7 +1,7 @@
 <h1>Hi, I'm AJ, an IT, Cybersecurity, IAM Azure Associate </a>☺</h1>
 
 - <b>Microsoft Azure Entra ID</b>
-- [Creating User's in Entra ID]()
+- [Creating User's in Entra ID](https://github.com/AJ-IAM7862/user-accounts)
 - [Cloud Provisioning - P2 Licensing]()
 - [Role Assignments]()
 - [Group Assignments]()
