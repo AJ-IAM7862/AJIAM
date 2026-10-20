@@ -8,7 +8,7 @@
 - [Identity Lifecycle](https://github.com/AJ-IAM7862/identity-lifecycle/blob/main/README.md)
 - [Audit Logs](https://github.com/AJ-IAM7862/audit-logs/blob/main/README.md)
 - [Sign-In Logs](https://github.com/AJ-IAM7862/sign-in-logs/blob/main/README.md)
-- [Authentication]()
+- [Authentication](https://github.com/AJ-IAM7862/authentication/blob/main/README.md)
 - <b>Deployment, Networking, Troubleshooting</b>
 - [Creating Resource Group, Deploying Virtual Machine, and RDP]()
 - [Creating and Managing Local Users]()
