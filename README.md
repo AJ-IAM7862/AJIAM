@@ -4,7 +4,7 @@
 - [Creating User's in Entra ID](https://github.com/AJ-IAM7862/user-accounts)
 - [Cloud Provisioning - P2 Licensing](https://github.com/AJ-IAM7862/p2-licensing-)
 - [Role Assignments](https://github.com/AJ-IAM7862/role-assignments)
-- [Group Assignments]()
+- [Group Assignments](https://github.com/AJ-IAM7862/group-assign/blob/main/README.md)
 - [Identity Lifecycle]()
 - [Audit Logs]()
 - [Sign-In Logs]()
