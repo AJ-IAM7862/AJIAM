@@ -6,7 +6,7 @@
 - [Role Assignments](https://github.com/AJ-IAM7862/role-assignments)
 - [Group Assignments](https://github.com/AJ-IAM7862/group-assign/blob/main/README.md)
 - [Identity Lifecycle](https://github.com/AJ-IAM7862/identity-lifecycle/blob/main/README.md)
-- [Audit Logs]()
+- [Audit Logs](https://github.com/AJ-IAM7862/audit-logs/blob/main/README.md)
 - [Sign-In Logs]()
 - [Authentication]()
 - <b>Deployment, Networking, Troubleshooting</b>
