@@ -17,6 +17,6 @@
 - [Software Installation](https://github.com/AJ-IAM7862/Software-Installation)
 - [Print Queue](https://github.com/AJ-IAM7862/Print-Queue)
 - [Credential Manager and Cache](https://github.com/AJ-IAM7862/Credential-Manager)
-- [PowerShell]()
+- [PowerShell](https://github.com/AJ-IAM7862/Powershell-Overview)
 - <b>Ticketing System</b>
 - [SpiceWorks Ticketing System]()
