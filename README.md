@@ -15,7 +15,7 @@
 - [Troubleshooting Network Connectivity](https://github.com/AJ-IAM7862/Troubleshoot-Network-Connectivity)
 - [Managing Windows Updates](https://github.com/AJ-IAM7862/Managing-Windows-Updates)
 - [Software Installation](https://github.com/AJ-IAM7862/Software-Installation)
-- [Print Queue]()
+- [Print Queue](https://github.com/AJ-IAM7862/Print-Queue)
 - [Credential Manager and Cache]()
 - [PowerShell]()
 - <b>Ticketing System</b>
