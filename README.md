@@ -10,7 +10,7 @@
 - [Sign-In Logs](https://github.com/AJ-IAM7862/sign-in-logs/blob/main/README.md)
 - [Authentication](https://github.com/AJ-IAM7862/authentication/blob/main/README.md)
 - <b>Deployment, Networking, Troubleshooting</b>
-- [Creating Resource Group, Deploying Virtual Machine, and RDP]()
+- [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/AJ-IAM7862/Creating-Resource-Group-Deploying-VM-and-RDP)
 - [Creating and Managing Local Users]()
 - [Troubleshooting Network Connectivity]()
 - [Managing Windows Updates]()
