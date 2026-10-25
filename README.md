@@ -22,7 +22,7 @@
 - [SpiceWorks Ticketing System](https://github.com/AJ-IAM7862/SpiceWorks-Ticketing-System)
   
 - <b>Okta Administration</b>
-- [Importing User's from Entra ID to Our Okta Environment]()
+- [Importing User's from Entra ID to Our Okta Environment](https://github.com/AJ-IAM7862/Importing-User-s-from-Entra-ID-to-Our-Okta-Environment/blob/main/README.md)
 - [Enrollment Provisioning in Okta]()
 - [Create Users Manually in Okta]()
 - [Adding Attributes to Users in Our Okta Environment]()
