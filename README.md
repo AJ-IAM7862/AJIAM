@@ -13,7 +13,7 @@
 - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/AJ-IAM7862/Creating-Resource-Group-Deploying-VM-and-RDP)
 - [Creating and Managing Local Users](https://github.com/AJ-IAM7862/Manage-Local-Users)
 - [Troubleshooting Network Connectivity](https://github.com/AJ-IAM7862/Troubleshoot-Network-Connectivity)
-- [Managing Windows Updates](https://github.com/AJ-IAM7862/Managing-Windows-Updates)
+- [Managing Windows Updates](https://github.com/AJ-IAM7862/Managing-Windows-Updates/blob/main/README.md)
 - [Software Installation](https://github.com/AJ-IAM7862/Software-Installation)
 - [Print Queue](https://github.com/AJ-IAM7862/Print-Queue)
 - [Credential Manager and Cache](https://github.com/AJ-IAM7862/Credential-Manager)
