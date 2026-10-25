@@ -11,7 +11,7 @@
 - [Authentication](https://github.com/AJ-IAM7862/authentication/blob/main/README.md)
 - <b>Deployment, Networking, Troubleshooting</b>
 - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/AJ-IAM7862/Creating-Resource-Group-Deploying-VM-and-RDP)
-- [Creating and Managing Local Users]()
+- [Creating and Managing Local Users](https://github.com/AJ-IAM7862/Manage-Local-Users)
 - [Troubleshooting Network Connectivity]()
 - [Managing Windows Updates]()
 - [Software Installation]()
