@@ -14,7 +14,7 @@
 - [Creating and Managing Local Users](https://github.com/AJ-IAM7862/Manage-Local-Users)
 - [Troubleshooting Network Connectivity](https://github.com/AJ-IAM7862/Troubleshoot-Network-Connectivity)
 - [Managing Windows Updates](https://github.com/AJ-IAM7862/Managing-Windows-Updates)
-- [Software Installation]()
+- [Software Installation](https://github.com/AJ-IAM7862/Software-Installation)
 - [Print Queue]()
 - [Credential Manager and Cache]()
 - [PowerShell]()
