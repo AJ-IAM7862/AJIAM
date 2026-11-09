@@ -29,4 +29,4 @@
 - [Creating Groups in Okta](https://github.com/AJ-IAM7862/Creating-Groups-in-Okta/blob/main/README.md)
 - [Rules in Okta](https://github.com/AJ-IAM7862/ABAC-Rules-in-Okta)
 - [Device Management in Okta](https://github.com/AJ-IAM7862/Device-Management/blob/main/README.md)
-- [Audit Logs in Okta]()
+- [Audit Logs in Okta](https://github.com/AJ-IAM7862/Audit-Logs-in-Okta/blob/main/README.md)
