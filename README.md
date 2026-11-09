@@ -24,7 +24,7 @@
 - <b>Okta Administration</b>
 - [Importing User's from Entra ID to Our Okta Environment](https://github.com/AJ-IAM7862/Importing-User-s-from-Entra-ID-to-Our-Okta-Environment/blob/main/README.md)
 - [Enrollment Provisioning in Okta](https://github.com/AJ-IAM7862/Enrollment-Provisioning-in-Okta/blob/main/README.md)
-- [Create Users Manually in Okta]()
+- [Create Users Manually in Okta](https://github.com/AJ-IAM7862/Create-Users-in-Okta/blob/main/README.md)
 - [Adding Attributes to Users in Our Okta Environment]()
 - [Creating Groups in Okta]()
 - [Rules in Okta]()
