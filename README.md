@@ -28,5 +28,5 @@
 - [Adding Attributes to Users in Our Okta Environment](https://github.com/AJ-IAM7862/Adding-Attributes-to-Users-in-Okta)
 - [Creating Groups in Okta](https://github.com/AJ-IAM7862/Creating-Groups-in-Okta/blob/main/README.md)
 - [Rules in Okta](https://github.com/AJ-IAM7862/ABAC-Rules-in-Okta)
-- [Device Management in Okta]()
+- [Device Management in Okta](https://github.com/AJ-IAM7862/Device-Management/blob/main/README.md)
 - [Audit Logs in Okta]()
